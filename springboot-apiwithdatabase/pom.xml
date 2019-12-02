@@ -9,7 +9,6 @@
 	
 	<name>springboot-apiwithdatabase</name>
 	<description>Spring Boot</description>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -82,7 +81,7 @@
 			</plugin>
 			 
 			 
-		 <plugin>
+		<!-- <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-shade-plugin</artifactId>
             <version>2.4.3</version>
@@ -104,7 +103,7 @@
                     </configuration>
                 </execution>
             </executions>
-        </plugin>
+        </plugin> -->
 			
 			
 		</plugins>
