@@ -6,8 +6,7 @@
 	<groupId>io.java.springbootwithdata</groupId>
 	<artifactId>demoDatabase</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
-
+	
 	<name>springboot-apiwithdatabase</name>
 	<description>Spring Boot</description>
 
