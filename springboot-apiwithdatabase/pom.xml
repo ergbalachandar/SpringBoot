@@ -113,7 +113,7 @@
             <configuration>
                 <schemaVersion>v2</schemaVersion>
                 <resourceGroup>maven-plugin</resourceGroup>
-                <appName>springboot</appName>
+                <appName>springbootbala</appName>
                 <region>westus</region>
                 <runtime>
                     <os>linux</os>
